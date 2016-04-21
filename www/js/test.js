@@ -1,1 +1,4 @@
-console.log(1)
+
+require('./foo/b.js')
+
+console.log(12345111)
